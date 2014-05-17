@@ -37,16 +37,15 @@ header{
 	top: -150px;
 	margin-left: 150px;
 	margin-right: 150px;
-	word-spacing:37px;
 }
 
 #mbar-text{
 	font-family: "Helvetica Neue";
 	font-weight: 900;
 	font-size:25px;
-	color: #FFFFFF;
+	color: #000000;
 	position: relative;
-	word-spacing: 40px;
+	word-spacing: 60px;
 	top: -40px;
 
 }
