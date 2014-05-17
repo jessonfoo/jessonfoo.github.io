@@ -20,8 +20,15 @@ header{
 	margin-left: 0px;
 	margin-right: 0px;
 }
+#home{
+	text-align: right;
+	font-family: "Verdana";
+	font-size: 30px;
+	color: #FEFEFE;
+	margin-top: -70px;
+	margin-right: 30px;
+}
 #toc{
-	margin-top: -10px;
 	margin-left: 30px;
 }
 ol{
