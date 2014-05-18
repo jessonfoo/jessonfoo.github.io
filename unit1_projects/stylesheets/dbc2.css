@@ -1,3 +1,6 @@
+body{
+	white-space: nowrap;
+}
 #header	{
 	background-color: black;
 	margin:-10px;
@@ -37,6 +40,7 @@ header{
 	top: -150px;
 	margin-left: 150px;
 	margin-right: 150px;
+	white-space: nowrap;
 }
 
 #mbar-text{
@@ -56,6 +60,7 @@ header{
 	top: 20px;
 	margin-left: 150px;
 	margin-right: 150px;
+	white-space: nowrap;
 }
 #divider{
 	background-color: #000000;
@@ -64,6 +69,7 @@ header{
 	top: 22px;
 	margin-left: 150px;
 	margin-right: 150px;	
+	white-space: nowrap;
 }
 
 #d2{
@@ -72,7 +78,8 @@ header{
 	position: relative;
 	top: 60px;
 	margin-left: 150px;
-	margin-right: 150px;	
+	margin-right: 150px;
+	white-space: nowrap;	
 }
 #des-text{
 	font-family: "Helvetica Neue";
@@ -97,7 +104,7 @@ header{
 	top: 10px;
 	bottom: 90px;
 	margin-left: 150px;
-	margin-right: 150px;
+	width: 978
 }
 #caption{
 	font-family: "Helvetica Neue";
