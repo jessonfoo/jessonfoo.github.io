@@ -1,8 +1,16 @@
+
+body{
+	font-family: sans-serif;
+	color: #444444;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: -1%;
+}
 #header	{
 	background-color: black;
-	margin:-10px;
 	position: static;
-	top: 0px;
+	margin-left: -25%;
+	margin-right:-25%;
 }
 header{
 	font-family: "serif";
@@ -11,8 +19,9 @@ header{
 	position: relative;
 	top: 40px;
 	float:center;
+	white-space: nowrap;
 }
-#sidebar{
+/*#sidebar{
 	background-color: #FEFEFE;
 	position: fixed;
 	height: 425px;
@@ -20,7 +29,7 @@ header{
 	margin-top: -768px;
 	width:150px;
 	float:left;
-}
+}*/
 #hbar-text{
 	font-family: "Arial Black";
 	font-size:15px;
@@ -28,6 +37,7 @@ header{
 	position: relative;
 	top:-30px;
 	word-spacing: 48px;
+	white-space: nowrap;
 }
 
 #header-bar{
@@ -35,8 +45,6 @@ header{
 	height: 1px;
 	position: relative;
 	top: -150px;
-	margin-left: 150px;
-	margin-right: 150px;
 }
 
 #mbar-text{
@@ -47,7 +55,7 @@ header{
 	position: relative;
 	word-spacing: 60px;
 	top: -40px;
-
+	white-space: nowrap;
 }
 
 #mbar{
@@ -55,25 +63,19 @@ header{
 	height: 5px;
 	position: relative;
 	top: 20px;
-	margin-left: 150px;
-	margin-right: 150px;
 }
 #divider{
 	background-color: #000000;
 	height: 2px;
 	position: relative;
-	top: 22px;
-	margin-left: 150px;
-	margin-right: 150px;	
+	top: 22px;	
 }
 
 #d2{
 	background-color: #000000;
 	height: 2px;
 	position: relative;
-	top: 60px;
-	margin-left: 150px;
-	margin-right: 150px;	
+	top: 30px;	
 }
 #projects{
 	font-family: "Helvetica Neue";
@@ -83,7 +85,8 @@ header{
 	position: relative;
 	word-spacing: 30px;
 	top: 8px;
-	margin-bottom: -40px;
+	margin-bottom: -30px;
+	white-space: nowrap;
 }
 
 #content{
@@ -96,9 +99,7 @@ header{
 	height: 2px;
 	position: relative;
 	top: 10px;
-	bottom: 90px;
-	margin-left: 150px;
-	margin-right: 150px;
+	bottom: 90px;/
 }
 
 
@@ -111,17 +112,17 @@ header{
 
 .align-left{
 	text-align: left;
-	margin-left: 150px;
+	margin-left: 15%;
 }
 .align-right{
 	text-align: right;
-	margin-right: 150px;
+	margin-right: 15%;
 }
 
 .align-center{
 	text-align: center;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 a.black:link, a.black:visited, a.black:hover, a.black:active {
   color: #000000;
