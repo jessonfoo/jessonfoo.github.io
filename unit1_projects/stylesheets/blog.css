@@ -5,6 +5,19 @@
 	margin-left: -10px;
 	margin-right: -10px;
 }
+
+#links{
+	background-color:#D5D5D5;
+	border-radius: 15px;
+	padding-top: 2%;
+	padding-bottom:2%;
+	margin-left:10%;
+	margin-right:10%;
+	margin-bottom: 20px;
+
+	
+}
+
 body{
 	font-family: sans-serif;
 	color: #444444;
@@ -40,8 +53,8 @@ a:link, a:visited, a:hover, a:active {
 
 .align-left{
 	text-align: left;
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 20%;
+	margin-right: 20%;
 }
 .align-right{
 	text-align: right;
@@ -49,8 +62,13 @@ a:link, a:visited, a:hover, a:active {
 	margin-right: 15%;
 }
 
+article{
+    background-color:#F6F6F6;
+    padding:25px 50px;
+    border-radius: 25px;
+}
 .align-center{
 	text-align: center;
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 20%;
+	margin-right: 20%;
 }
