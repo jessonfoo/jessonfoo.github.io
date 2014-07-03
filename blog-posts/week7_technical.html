@@ -26,44 +26,64 @@
 		<article class="align-left">
 			
 
-				<div class="date">Jun 28th, 2014</div>
+				<div class="date">Jun 30th, 2014</div>
 
-				<div class="date">Jun 19th, 2014</div>
 
 				<h2>Dev Boot Camp Technical Blog</h2>
 			
-			<br>
-			<div class="content">
+				<br>
+				<div class="content">
 				<p>
-
-					<b><em></em></b>
 							<br>
 
 					<b><em>SQL vs NoSQL</em></b>
 						<br>
 
-						<br>
-						<br>
-					<b></b>
-						<br>
-					<p><em>Scope</em> is defined in the dictionary as "<em>the extent of the area or subject matter that something deals with or to which it is relevant.</em>" This definition fits perfectly for the case of variables that are declared in programming. Variables are identifiers that hold references to objects. In programming when you declare a variable, it's scope is the extent as to how accessible it is.Every object in ruby has a scope. For one to understand one's scope, one must first understand one's <b style="font-family: Courier, monospace;">self</b>.
+					<p><em>SQL</em> is programming language specialized for database management. In It is commonly referred to as<em>RMDBS</em> or called by the acronym <em>"SEQUEL"</em> relational database management system. It's purpose was to In my opinion, SQL isn't much of a programming language at all since it's scope of operations is so limited. SQL was designed in order to store data in tables that were easily searchable.
+					The syntax of sql typically follows a certain pattern for everyoperation.
 					</p>
+					<p>for example to craeate a table, it would look something like this</p>
+					```sql
+						CREATE TABLE example(
+ 						field1 INTEGER,
+ 						field2 VARCHAR(50),
+ 						field3 DATE NOT NULL,
+ 						PRIMARY KEY (field1, field2)
+						);	
+ 					```
+ 					As a Language SQL is primarily composed of a few elements: clause expression statement
+ 					once the tables have been made the most common operations are querries regarding whether is something in one table or another. There are several visibly common words that occur in sql syntax that querries; that is:
+ 					```sql
+ 					FROM
+ 					JOIN
+ 					WHERE
+ 					GROUP BY
+ 					HAVING
+ 					ORDER BY
+ 					```
+ 					Here is an example of these clauses being used in an example
+
+
+
+					<img width="100%" src="http://i.imgur.com/fsDZPEd.png">
 					<br>
-					<p>know your <b style="font-family: Courier, monospace;">self</b></p>
+					<b>SQL vs NoSQL:Whats the big deal?</b>
 					<br>
-					<p>Self, is rubies default message reciever. <b style="font-family: Courier, monospace;">self</b> is wherever you are writing your code in a ruby program. Depending on how deep your program goes, <b style="font-family: Courier, monospace;">self</b> can have various identities.</p>
-					<br>
-					<p>The four basic levels, or contexts of a ruby program are: Method level, Module Level, Class Level, and the top level. When created various levels of a program have varying access to variables. At the most private level, a variable created inside of a block inside a method is accessable only by the block itself. At the next level is the basic variable declaration inside of a method or function, this variable can be accessed throughout the method, but no where else. After that, you can create Class variables which can be accessed by anything inside of the class, and instances of the class. However Class variables must be initialized using the '@' sign. At the broadest level, you can initialize Global Variables using the '$' sign. In each case, self changes at every level. The image below shows this heirarchy as well as how self would respond at each level.</p>
-					<img style="width:100%" src="http://i.imgur.com/LyV3OKz.png">
-					<p>At the top level, you can create classes, and modules, call on objects, and assign variables. This is the default level. At the class level, self will return the class name. However, at the module level, self can return as either simply the module, or the module as a child of a class. At the method level self can vary, as shown in the image below.</p>
-					<img style="width:100%" src="http://i.imgur.com/uJLIER6.png">
+					<p>
+						To most peple. the words SQL and NoSQL have no meaning. However, as web developers, we live in a world 
+						where we extensively debate on which of these seeminglessly meaningless words mean.
+					</p>
+					<p>
+						As I explained in my introduction, SQL is a database technology invented to quickly store and retrieve data. SQL was one of the first database technologies used and distrubuted by multiple companies, but most notably, Microsoft's SQL Server. Naturally over time, people discover loopholes in the technology. One well known exploit is called SQL injection.
+						Hopefuly this image below will explain how hackers exploit SQL injection.
+					</p>
+					<img src="http://i.imgur.com/n81t8Ab.png">
 						<br>
-						<b>Classes vs Modules</b>
+						
+						<p>
+							As you can see, SQL injection exploits the the vulnerability of leaving open fields that inject the argument into the sql block of code.
+						</p>
 						<br>
-						<p>Classes and Modules share many similarities but are quite different. Both classes and modules are used to store functions, or methods. Both must be created using an uppercase letter first, and both can be used to include their methods in other classes. However modules, as previously mentioned, can not be created as instances. Modules are more for storing sets of functions that you may decide you want to include in your class. So why use modules?</p>
-						<br>
-						<b>Module Functionality</b>
-					<p>Modules are key elements for programming, especially when used often. While classes can allow access to its methods to other classes, this is done by providing a parent class. Unfortunately, classes can only have one parent class. This is where modules come in. Modules allow for multiple inheritence. Four ways to add functionality using a module are by using load, require, include, or extend. load and require both take strings as paths to a module. Include combines the module with the current instance of a class. Extend provides functionality to the current object extending the functionality of self. However, the ultimate power of modules is that it can include other classes and other modules.</p>
 						<br>
 					
 						<br>
