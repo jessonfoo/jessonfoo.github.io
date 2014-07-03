@@ -81,7 +81,9 @@
 						<br>
 						
 						<p>
-							As you can see, SQL injection exploits the the vulnerability of leaving open fields that inject the argument into the sql block of code.
+							As you can see, SQL injection exploits the the vulnerability of leaving open fields that inject the argument into the sql block of code. The reason this works is because it uses the inject method to place it in to something like list, but closes the list using a ' then by including the OR modifier followed by a statement that returns true causes then entire name selection to be true. The picture above does a good job showing how what is entered into the user prompt box can be used for data manipulation in SQL.
+							<br>
+							Avoiding SQL injection can be stopped if the language were more sophisticated. Sophisticated in the sense that it had some object oriented features, or if it were slightly less rigid. at times its nice to have a set of rules to follow, but cheaters see predictability as a chance for exploitation.
 						</p>
 						<br>
 						<br>
