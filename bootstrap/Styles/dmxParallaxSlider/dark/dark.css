@@ -1,0 +1,69 @@
+.dmxParallaxSlider-dark {
+	background: #222;
+	padding: 10px;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSlider {
+	background: #fff;
+	margin-bottom: 10px;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderLoading {
+	background: #fff url(loading.gif) no-repeat 50% 50%;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderNav {
+	position: relative;
+	line-height: 30px;
+	height: 30px;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderControlNav {
+	float: left;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderDirectionNav {
+	float: right;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderControlNav a,
+.dmxParallaxSlider-dark .dmxParallaxSliderDirectionNav a {
+	display: inline-block;
+	text-indent: -9999px;
+	border: 0;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderControlNav a {
+	width: 10px;
+	height: 10px;
+	background: url(bullets.png) no-repeat 0 2px;
+	margin: 0 5px;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderControlNav a.dmxParallaxSliderCurrent {
+	background-position: 0 100%;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderDirectionNav a {
+	width: 30px;
+	height: 30px;
+	background: url(arrows.png) no-repeat;
+	margin-left: 5px;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderDirectionNav a:hover {
+    background-color: #333;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderDirectionNav a.dmxParallaxSliderNextNav {
+	background-position: -16px 50%;
+}
+
+.dmxParallaxSlider-dark .dmxParallaxSliderDirectionNav a.dmxParallaxSliderPrevNav {
+    background-position: 11px 50%;
+}
