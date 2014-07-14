@@ -12,6 +12,12 @@ h3{
 	color: white;
 	font-size: 8em
 }
+.whitepacifico{
+	font-family: 'Pacifico', cursive;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	color: white;
+	font-size: 8em
+}
 .full-width-image-1 {
 	background: url(http://i.imgur.com/vMw32a7.jpg) no-repeat center center;
 	background-size: cover;
