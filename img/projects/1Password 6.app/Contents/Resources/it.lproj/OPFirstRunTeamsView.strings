@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Don’t have an account yet?"; ObjectID = "9Cc-IU-4W5"; */
+"9Cc-IU-4W5.title" = "Non hai ancora un account?";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "Cwh-kX-4ve"; */
+"Cwh-kX-4ve.title" = "Accedi";
+
+/* Class = "NSBox"; title = "White Box"; ObjectID = "Gp3-h0-hso"; */
+"Gp3-h0-hso.title" = "Box bianca";
+
+/* Class = "NSTextFieldCell"; title = "Easily and securely share your data between multiple devices and with others in your family or team."; ObjectID = "JIW-Ua-l5c"; */
+"JIW-Ua-l5c.title" = "Condividi in modo facile e sicuro i tuoi dati attraverso molteplici dispositivi e con altri membri della tua famiglia o team.";
+
+/* Class = "NSTextFieldCell"; title = "Sign up your >>family<< or >>team<<!"; ObjectID = "O3v-cL-2Bu"; */
+"O3v-cL-2Bu.title" = "Accedi alla tua >>famiglia<< o >>team<<!";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "1Password Account"; ObjectID = "SYG-hr-Qsp"; */
+"SYG-hr-Qsp.ibExternalAccessibilityDescription" = "Account 1Password";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "back"; ObjectID = "dzs-5x-TPg"; */
+"dzs-5x-TPg.ibExternalAccessibilityDescription" = "indietro";
+
+/* Class = "NSButtonCell"; title = "〱 Welcome to 1Password"; ObjectID = "h72-oI-M5z"; */
+"h72-oI-M5z.title" = "< Benvenuti in 1Password";

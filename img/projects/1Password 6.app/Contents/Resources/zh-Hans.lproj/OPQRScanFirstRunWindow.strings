@@ -1,0 +1,8 @@
+/* Class = "NSWindow"; title = "1Password - QR Code Scanner"; ObjectID = "Q4N-c7-tZc"; */
+"Q4N-c7-tZc.title" = "1Password - QR 码扫描器";
+
+/* Class = "NSTextFieldCell"; title = "Scan QR Code"; ObjectID = "YWc-Ma-8Ab"; */
+"YWc-Ma-8Ab.title" = "扫描二维码";
+
+/* Class = "NSButtonCell"; title = "Sign In Manually"; ObjectID = "qGY-bA-6HU"; */
+"qGY-bA-6HU.title" = "手动登录";

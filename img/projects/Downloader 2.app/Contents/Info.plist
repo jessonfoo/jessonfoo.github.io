@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BlizzardFileVersion</key>
+	<string>2.2.0.1285</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>Global</string>
+	<key>CFBundleExecutable</key>
+	<string>Blizzard Downloader</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Blizzard Downloader 2.2.0 (1285), Copyright © 2004-2010 Blizzard Entertainment.  All rights reserved.</string>
+	<key>CFBundleIconFile</key>
+	<string>downloader.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.blizzard.downloader</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Blizzard Downloader</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.2.0</string>
+	<key>CFBundleSignature</key>
+	<string>BlDn</string>
+	<key>CFBundleVersion</key>
+	<string>2.2.0</string>
+	<key>LSBackgroundOnly</key>
+	<string>1</string>
+	<key>LSMultipleInstancesProhibited</key>
+	<string>false</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2004-2010 Blizzard Entertainment.  All rights reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>Downloader</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>

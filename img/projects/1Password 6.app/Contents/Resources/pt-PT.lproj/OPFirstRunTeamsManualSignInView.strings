@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "3fB-Gg-ylg"; */
+"3fB-Gg-ylg.title" = "Endereço de e-mail";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "6pa-3K-eth"; */
+"6pa-3K-eth.title" = "Iniciar sessão";
+
+/* Class = "BindingConnection"; ibShadowedIsNilPlaceholder = "email@example.com"; ObjectID = "HTx-0t-byn"; */
+"HTx-0t-byn.ibShadowedIsNilPlaceholder" = "eu@exemplo.pt";
+
+/* Class = "NSButtonCell"; title = "〱 Welcome to 1Password"; ObjectID = "Ile-82-wrN"; */
+"Ile-82-wrN.title" = "〱 Anterior";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "back"; ObjectID = "PPG-qc-fZN"; */
+"PPG-qc-fZN.ibExternalAccessibilityDescription" = "back";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "SU5-2S-l8x"; */
+"SU5-2S-l8x.title" = "Palavra-passe mestra";
+
+/* Class = "BindingConnection"; ibShadowedIsNilPlaceholder = "your-team.1password.com"; ObjectID = "YpV-Qf-6oM"; */
+"YpV-Qf-6oM.ibShadowedIsNilPlaceholder" = "equipa.1password.com";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "bym-cj-uzF"; */
+"bym-cj-uzF.title" = "Caixa";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "gJU-UI-hEx"; */
+"gJU-UI-hEx.title" = "Etiqueta";
+
+/* Class = "NSTextFieldCell"; title = "Account Key"; ObjectID = "ixw-Z8-uWS"; */
+"ixw-Z8-uWS.title" = "Chave da conta";
+
+/* Class = "BindingConnection"; ibShadowedIsNilPlaceholder = "A3-•••••-•••••-•••••-•••••-•••••-•••••"; ObjectID = "m4T-oo-7rR"; */
+"m4T-oo-7rR.ibShadowedIsNilPlaceholder" = "A3-•••••-•••••-•••••-•••••-•••••-•••••";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "1Password Account"; ObjectID = "q0R-kU-8s1"; */
+"q0R-kU-8s1.ibExternalAccessibilityDescription" = "1Password Account";
+
+/* Class = "NSTextFieldCell"; title = "Sign-In Address"; ObjectID = "xIO-Fb-odL"; */
+"xIO-Fb-odL.title" = "Sign-In Address";

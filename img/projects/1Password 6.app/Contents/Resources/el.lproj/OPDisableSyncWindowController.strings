@@ -1,0 +1,20 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "Παράθυρο";
+
+/* Class = "NSTextFieldCell"; title = "WARNING: Deleting data from the folder will put it to Trash."; ObjectID = "3c3-u0-jZe"; */
+"3c3-u0-jZe.title" = "ΠΡΟΣΟΧΗ: Διαγράφοντας τα δεδομένα από τον φάκελο θα τα στείλει στον Κάδο.";
+
+/* Class = "NSTextFieldCell"; title = "Disabling Sync"; ObjectID = "APp-Od-W63"; */
+"APp-Od-W63.title" = "Απενεργοποίηση Συγχρονισμού";
+
+/* Class = "NSTextFieldCell"; title = "1Password will no longer sync with iCloud. "; ObjectID = "IOH-3R-Ndf"; */
+"IOH-3R-Ndf.title" = "Το 1Password δεν θα συγχρονίζεται πλέον με το iCloud.";
+
+/* Class = "NSButtonCell"; title = "Disable Sync"; ObjectID = "Llz-w9-CTS"; */
+"Llz-w9-CTS.title" = "Απενεργοποίηση Συγχρονισμού";
+
+/* Class = "NSButtonCell"; title = "Delete data from iCloud"; ObjectID = "zMC-pq-SBW"; */
+"zMC-pq-SBW.title" = "Διαγραφή δεδομένων από το iCloud";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "zgw-7p-mUr"; */
+"zgw-7p-mUr.title" = "Ακύρωση";

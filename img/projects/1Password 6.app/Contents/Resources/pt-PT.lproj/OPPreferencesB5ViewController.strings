@@ -1,0 +1,53 @@
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "4Ay-DE-asW"; */
+"4Ay-DE-asW.title" = "Célula de vista de tabela";
+
+/* Class = "NSTextFieldCell"; title = "Account Key"; ObjectID = "KSm-g6-HOE"; */
+"KSm-g6-HOE.title" = "Chave da conta";
+
+/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "MvG-26-7bh"; */
+"MvG-26-7bh.title" = "Alterar palavra-passe";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "UDa-yD-RWR"; */
+"UDa-yD-RWR.title" = "Célula de texto";
+
+/* Class = "NSTextFieldCell"; title = "•••••••••••••••••••••"; ObjectID = "XKO-pg-1ED"; */
+"XKO-pg-1ED.title" = "•••••••••••••••••••••";
+
+/* Class = "NSButtonCell"; title = "Add Devices"; ObjectID = "aSg-Oy-47K"; */
+"aSg-Oy-47K.title" = "Adicionar dispositivos";
+
+/* Class = "NSTextFieldCell"; title = "email@address.com"; ObjectID = "d5h-uo-b0M"; */
+"d5h-uo-b0M.title" = "utilizador@exemplo.pt";
+
+/* Class = "NSTextFieldCell"; title = "Sign-In Address"; ObjectID = "i17-ig-1oi"; */
+"i17-ig-1oi.title" = "Sign-In Address";
+
+/* Class = "NSTableColumn"; headerCell.title = "Team"; ObjectID = "izj-qi-asT"; */
+"izj-qi-asT.headerCell.title" = "Equipa";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Account"; ObjectID = "jkK-K8-r7H"; */
+"jkK-K8-r7H.ibExternalAccessibilityDescription" = "Adicionar conta";
+
+/* Class = "NSTextFieldCell"; title = "www.website.com"; ObjectID = "jpe-l4-kDG"; */
+"jpe-l4-kDG.title" = "www.exemplo.pt";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "naX-Wn-F8v"; */
+"naX-Wn-F8v.title" = "Endereço de e-mail";
+
+/* Class = "NSTextFieldCell"; title = "User Name"; ObjectID = "o3c-wy-Pk5"; */
+"o3c-wy-Pk5.title" = "Nome de utilizador";
+
+/* Class = "NSTextFieldCell"; title = "Sign into your Team or Family account"; ObjectID = "oVI-eK-PZ9"; */
+"oVI-eK-PZ9.title" = "Sign into your Team or Family account";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "pFq-iP-hst"; */
+"pFq-iP-hst.title" = "Sign Out";
+
+/* Class = "NSButtonCell"; title = "Your 1Password account is Frozen"; ObjectID = "q9z-VS-qqy"; */
+"q9z-VS-qqy.title" = "Your 1Password account is Frozen";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "account frozen"; ObjectID = "xRZ-cp-kmX"; */
+"xRZ-cp-kmX.ibExternalAccessibilityDescription" = "account frozen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "account frozen"; ObjectID = "xRZ-cp-kmX"; */
+"xRZ-cp-kmX.ibShadowedToolTip" = "account frozen";

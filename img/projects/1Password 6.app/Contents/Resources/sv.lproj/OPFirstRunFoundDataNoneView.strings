@@ -1,0 +1,26 @@
+/* Class = "NSBox"; title = "White Box"; ObjectID = "4as-rU-fEm"; */
+"4as-rU-fEm.title" = "White Box";
+
+/* Class = "NSButtonCell"; title = "Sign in to your 1Password account"; ObjectID = "Cy4-Wk-3kQ"; */
+"Cy4-Wk-3kQ.title" = "Logga in på ditt 1Password-konto";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Iz7-3V-9fE"; */
+"Iz7-3V-9fE.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "For Families and Teams"; ObjectID = "Mci-ge-HIh"; */
+"Mci-ge-HIh.title" = "För Familjer och Teams";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to"; ObjectID = "Ox4-zg-YF6"; */
+"Ox4-zg-YF6.title" = "Välkommen till";
+
+/* Class = "NSButtonCell"; title = "Already have 1Password data somewhere else?"; ObjectID = "Txm-fe-NDE"; */
+"Txm-fe-NDE.title" = "Har du redan 1Password-data någon annanstans?";
+
+/* Class = "NSTextFieldCell"; title = "1Password remembers all your passwords for you. It keeps your digital life secure and always available, safe behind the one password that only you know."; ObjectID = "YhH-Mi-p0V"; */
+"YhH-Mi-p0V.title" = "1Password kommer ihåg alla lösenord åt dig. Ditt digitala liv är i säkert förvar och alltid tillgängligt, skyddat bakom det lösenord som bara du känner till.";
+
+/* Class = "NSButtonCell"; title = "Create Your First Vault"; ObjectID = "l56-KE-LvF"; */
+"l56-KE-LvF.title" = "Skapa ditt första valv";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Welcome to 1Password"; ObjectID = "qpm-0d-ye0"; */
+"qpm-0d-ye0.ibExternalAccessibilityDescription" = "Välkommen till 1Password";

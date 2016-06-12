@@ -1,0 +1,44 @@
+/* Class = "NSTextFieldCell"; title = "Create your Master Password"; ObjectID = "10T-Bd-A3B"; */
+"10T-Bd-A3B.title" = "创建您的主密码";
+
+/* Class = "NSTextFieldCell"; title = "Make Sure It’s Memorized"; ObjectID = "15c-c4-Ieg"; */
+"15c-c4-Ieg.title" = "请再三确认您记住了";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "29i-uJ-Rkt"; */
+"29i-uJ-Rkt.title" = "继续";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a password hint"; ObjectID = "53h-HD-j3t"; */
+"53h-HD-j3t.placeholderString" = "请输入密码提示";
+
+/* Class = "NSButtonCell"; title = "〱 Welcome to 1Password"; ObjectID = "Gbj-uq-Hbn"; */
+"Gbj-uq-Hbn.title" = "欢迎使用 1Password";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "back"; ObjectID = "Nqo-IU-df9"; */
+"Nqo-IU-df9.ibExternalAccessibilityDescription" = "back";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter a new master password"; ObjectID = "YWT-iv-b8Y"; */
+"YWT-iv-b8Y.placeholderString" = "输入新的主密码";
+
+/* Class = "NSTextFieldCell"; title = "This is the one password you need to remember."; ObjectID = "ZO6-zb-pu9"; */
+"ZO6-zb-pu9.title" = "这是你需要记住的密码。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aY6-6I-m9L"; */
+"aY6-6I-m9L.title" = "Box";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please type it again"; ObjectID = "fsI-ds-kmO"; */
+"fsI-ds-kmO.placeholderString" = "请再次键入";
+
+/* Class = "NSTextFieldCell"; title = "Use our generator and create a strong and easy to remember password."; ObjectID = "hFE-3k-v3j"; */
+"hFE-3k-v3j.title" = "使用我们的密码生成器创建一个强的且易记的密码。";
+
+/* Class = "NSTextFieldCell"; title = "Want help?"; ObjectID = "hQE-mK-yjI"; */
+"hQE-mK-yjI.title" = "需要帮助？";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "iSk-Ei-bvq"; */
+"iSk-Ei-bvq.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "nSI-S3-nq2"; */
+"nSI-S3-nq2.title" = "生成";
+
+/* Class = "NSTextFieldCell"; title = "We also recommend writing it down and storing it in a safe place."; ObjectID = "xv7-OZ-hi5"; */
+"xv7-OZ-hi5.title" = "我们还建议您将其写下来，并存储在一个安全的地方。";

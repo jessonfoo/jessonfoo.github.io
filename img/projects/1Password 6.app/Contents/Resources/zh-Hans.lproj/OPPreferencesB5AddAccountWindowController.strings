@@ -1,0 +1,41 @@
+/* Class = "BindingConnection"; ibShadowedIsNilPlaceholder = "email@example.com"; ObjectID = "1jJ-5e-bPs"; */
+"1jJ-5e-bPs.ibShadowedIsNilPlaceholder" = "email@example.com";
+
+/* Class = "NSTextFieldCell"; title = "Add a 1Password account to access all of your vaults on this Mac."; ObjectID = "1z6-kM-Fda"; */
+"1z6-kM-Fda.title" = "添加 1Password for Teams 账户以访问这台 Mac 上的所有数据库。";
+
+/* Class = "BindingConnection"; ibShadowedIsNilPlaceholder = "your-team.1password.com"; ObjectID = "6Jj-MO-cWo"; */
+"6Jj-MO-cWo.ibShadowedIsNilPlaceholder" = "your-team.1password.com";
+
+/* Class = "NSTextFieldCell"; title = "Email Address"; ObjectID = "BeV-Tc-zKD"; */
+"BeV-Tc-zKD.title" = "电子邮件地址";
+
+/* Class = "BindingConnection"; ibShadowedIsNilPlaceholder = "A3-•••••-•••••-•••••-•••••-•••••-•••••"; ObjectID = "GqF-T2-b2I"; */
+"GqF-T2-b2I.ibShadowedIsNilPlaceholder" = "A3-•••••-•••••-•••••-•••••-•••••-•••••";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "P5b-Qi-Glt"; */
+"P5b-Qi-Glt.title" = "主密码";
+
+/* Class = "NSButtonCell"; title = "Sign In Manually"; ObjectID = "QQH-Pl-a47"; */
+"QQH-Pl-a47.title" = "手动登录";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "YDE-jX-NRw"; */
+"YDE-jX-NRw.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Account Key"; ObjectID = "anf-4A-DR8"; */
+"anf-4A-DR8.title" = "账户密钥";
+
+/* Class = "NSTextFieldCell"; title = "Sign-In Address"; ObjectID = "hLa-S1-cQ1"; */
+"hLa-S1-cQ1.title" = "登录地址";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "jF3-2R-t4c"; */
+"jF3-2R-t4c.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Scan QR Code"; ObjectID = "tM5-fS-UYm"; */
+"tM5-fS-UYm.title" = "扫描二维码";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "w5I-vC-XEj"; */
+"w5I-vC-XEj.title" = "登录";

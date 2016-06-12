@@ -1,0 +1,283 @@
+{
+    IBClasses =     (
+                {
+            CLASS = BZProgress;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSView;
+        },
+                {
+            CLASS = ColoredRowTableView;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSTableView;
+        },
+                {
+            CLASS = ConnectionInfoDataSource;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                connectionInfoTable = NSTableView;
+            };
+            SUPERCLASS = NSObject;
+        },
+                {
+            ACTIONS =             {
+                enableBackgroundDownloadingCheckboxChanged = id;
+                enableFastBgDnCheckboxChanged = id;
+                enablePeerToPeerCheckboxChanged = id;
+                licenseCancelClicked = id;
+                licenseOKClicked = id;
+                licenseTechSupportClicked = id;
+                logCloseClicked = id;
+                mainActionButtonClicked = id;
+                mainExitButtonClicked = id;
+                nextButtonClicked = id;
+                prefCancelButtonClicked = id;
+                prefOKButtonClicked = id;
+                prefRestoreButtonClicked = id;
+                prevButtonClicked = id;
+                revealInFinder = id;
+                showAboutPanel = id;
+                showConnectionInfo = id;
+                showLog = id;
+                showPreferencesWindow = id;
+                techSupportButtonClicked = id;
+            };
+            CLASS = DownloaderController;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                connBg = NSImageView;
+                connInfoColConnection = NSTableColumn;
+                connInfoColDownActive = NSTableColumn;
+                connInfoColDownBadPieces = NSTableColumn;
+                connInfoColDownChoked = NSTableColumn;
+                connInfoColDownInterested = NSTableColumn;
+                connInfoColDownRate = NSTableColumn;
+                connInfoColDownTotal = NSTableColumn;
+                connInfoColLocal = NSTableColumn;
+                connInfoColPeerDone = NSTableColumn;
+                connInfoColPeerID = NSTableColumn;
+                connInfoColPeerTime = NSTableColumn;
+                connInfoColUpActive = NSTableColumn;
+                connInfoColUpChoked = NSTableColumn;
+                connInfoColUpInterested = NSTableColumn;
+                connInfoColUpQueued = NSTableColumn;
+                connInfoColUpRate = NSTableColumn;
+                connInfoColUpTotal = NSTableColumn;
+                connectionInfoAbsolutePath = NSTextField;
+                connectionInfoDownSpeed = NSTextField;
+                connectionInfoDownloadHash = NSTextField;
+                connectionInfoDownloadPercent = NSTextField;
+                connectionInfoDownloadRate = NSTextField;
+                connectionInfoDownloaded = NSTextField;
+                connectionInfoLocalAddress = NSTextField;
+                connectionInfoLog = NSTextView;
+                connectionInfoPeerID = NSTextField;
+                connectionInfoPieceView = NSImageView;
+                connectionInfoPublicAddress = NSTextField;
+                connectionInfoReceived = NSTextField;
+                connectionInfoTable = ColoredRowTableView;
+                connectionInfoUploadRate = NSTextField;
+                connectionInfoUploaded = NSTextField;
+                connectionInfoWindow = NSWindow;
+                currenttorrenttext = NSTextField;
+                licenseAccept = RolloverImageButton;
+                licenseBg = NSImageView;
+                licenseClickHereMoreInfo = NSTextField;
+                licenseDecline = RolloverImageButton;
+                licenseView = NSTextView;
+                licenseViewScr = NSScrollView;
+                licenseWindow = NSWindow;
+                logBg = NSImageView;
+                logView = NSTextView;
+                logWindow = NSWindow;
+                mainActionButton = NSButton;
+                mainActivity = NSTextField;
+                mainAlert1 = NSTextField;
+                mainAlert2 = NSTextField;
+                mainAlert3 = NSTextField;
+                mainBg = NSImageView;
+                mainDetailedStatus = NSTextField;
+                mainExit = RolloverImageButton;
+                mainGraphicalStatus = NSImageView;
+                mainMoreInfo1 = URLButton;
+                mainMoreInfo2 = URLButton;
+                mainMoreInfo3 = URLButton;
+                mainProgress = BZProgress;
+                mainWindow = NSWindow;
+                "menuApp_About" = NSMenu;
+                "menuApp_Hide" = NSMenuItem;
+                "menuApp_HideOthers" = NSMenuItem;
+                "menuApp_Preferences" = NSMenuItem;
+                "menuApp_Quit" = NSMenuItem;
+                "menuApp_Services" = NSMenuItem;
+                "menuApp_ShowAll" = NSMenuItem;
+                menuEdit = NSMenu;
+                "menuEdit_Copy" = NSMenuItem;
+                "menuEdit_Cut" = NSMenuItem;
+                "menuEdit_Delete" = NSMenuItem;
+                "menuEdit_Paste" = NSMenuItem;
+                "menuEdit_Redo" = NSMenuItem;
+                "menuEdit_SelectAll" = NSMenuItem;
+                "menuEdit_Undo" = NSMenuItem;
+                menuFile = NSMenu;
+                "menuFile_Close" = NSMenuItem;
+                "menuFile_RevealInFinder" = NSMenuItem;
+                menuHelp = NSMenu;
+                "menuHelp_ConfiguringFirewall" = NSMenuItem;
+                "menuHelp_TechSupport" = NSMenuItem;
+                menuView = NSMenu;
+                "menuView_ConnectionInfo" = NSMenuItem;
+                "menuView_Log" = NSMenuItem;
+                menuWindow = NSMenu;
+                "menuWindow_BringAllToFront" = NSMenuItem;
+                "menuWindow_Minimize" = NSMenuItem;
+                "menuWindow_Zoom" = NSMenuItem;
+                nextbutton = NSButton;
+                prefBg = NSImageView;
+                prefCancel = RolloverImageButton;
+                prefOK = RolloverImageButton;
+                prefRestore = RolloverImageButton;
+                preferencesEnableBackgroundDownloadingHelp = URLButton;
+                preferencesEnableBackgroundDownloadingInfo = NSTextField;
+                preferencesEnableFastBgDnCheckbox = NSButton;
+                preferencesEnableFastBgDnCheckboxHelp = URLButton;
+                preferencesEnableFastBgDnCheckboxInfo = NSTextField;
+                preferencesEnablePeerCheckbox = NSButton;
+                preferencesEnablePeerHelp = URLButton;
+                preferencesEnablePeerInfo = NSTextField;
+                preferencesWindow = NSWindow;
+                prevbutton = NSButton;
+                splashHTMLBox = NSBox;
+                splashHTMLView = WebView;
+                splashImageView = NSImageView;
+            };
+            SUPERCLASS = NSObject;
+        },
+                {
+            CLASS = DownloaderLocalizer;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                autoPatchInfoLabel = NSTextField;
+                connInfoColConnection = NSTableColumn;
+                connInfoColDownActive = NSTableColumn;
+                connInfoColDownBadPieces = NSTableColumn;
+                connInfoColDownChoked = NSTableColumn;
+                connInfoColDownInterested = NSTableColumn;
+                connInfoColDownRate = NSTableColumn;
+                connInfoColDownTotal = NSTableColumn;
+                connInfoColLocal = NSTableColumn;
+                connInfoColPeerDone = NSTableColumn;
+                connInfoColPeerID = NSTableColumn;
+                connInfoColPeerTime = NSTableColumn;
+                connInfoColUpActive = NSTableColumn;
+                connInfoColUpChoked = NSTableColumn;
+                connInfoColUpInterested = NSTableColumn;
+                connInfoColUpQueued = NSTableColumn;
+                connInfoColUpRate = NSTableColumn;
+                connInfoColUpTotal = NSTableColumn;
+                connInfoMoreDetail = NSButton;
+                connInfoWindow = NSWindow;
+                firewallMessage = NSTextField;
+                firewallOK = NSButton;
+                firewallTitle = NSTextField;
+                firewallURL = URLButton;
+                licenseAccept = NSButton;
+                licenseClickHereMoreInfo = NSTextField;
+                licenseDecline = NSButton;
+                licenseWindow = NSWindow;
+                mainClickHereHavingProblems = NSTextField;
+                mainWindow = NSWindow;
+                menuAbout = NSMenuItem;
+                menuAdvanced = NSMenu;
+                menuApplication = NSMenu;
+                menuBringAllToFront = NSMenuItem;
+                menuClose = NSMenuItem;
+                menuConfiguringFirewallPage = NSMenuItem;
+                menuConnectionInfo = NSMenuItem;
+                menuCopy = NSMenuItem;
+                menuCut = NSMenuItem;
+                menuDelete = NSMenuItem;
+                menuEdit = NSMenu;
+                menuHelp = NSMenu;
+                menuHideApp = NSMenuItem;
+                menuHideOthers = NSMenuItem;
+                menuMinimize = NSMenuItem;
+                menuPaste = NSMenuItem;
+                menuQuit = NSMenuItem;
+                menuRedo = NSMenuItem;
+                menuSelectAll = NSMenuItem;
+                menuServices = NSMenu;
+                menuShowAll = NSMenuItem;
+                menuTechSupportPage = NSMenuItem;
+                menuUndo = NSMenuItem;
+                menuWindow = NSMenu;
+                menuZoom = NSMenuItem;
+                peerToPeerAllowCheckbox = NSButton;
+                peerToPeerHelpLabel = NSTextField;
+                peerToPeerMessage = NSTextField;
+                peerToPeerOKButton = NSButton;
+                peerToPeerOptionsButton = NSButton;
+                peerToPeerTitle = NSWindow;
+                warningsWindow = NSWindow;
+            };
+            SUPERCLASS = NSObject;
+        },
+                {
+            ACTIONS =             {
+                accepted = id;
+                declined = id;
+            };
+            CLASS = EulaController;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                eulaParent = NSWindow;
+                eulaTextView = NSTextView;
+                eulaWindow = NSWindow;
+            };
+            SUPERCLASS = NSObject;
+        },
+                {
+            CLASS = FirstResponder;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSObject;
+        },
+                {
+            ACTIONS =             {
+                buttonClicked = id;
+            };
+            CLASS = MsgBoxController;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                bgView = NSImageView;
+                btn1 = NSButton;
+                btn2 = NSButton;
+                icon = NSImageView;
+                message = NSTextField;
+                msgBox = NSWindow;
+                title = NSTextField;
+            };
+            SUPERCLASS = NSObject;
+        },
+                {
+            CLASS = NotesWebDelegate;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSObject;
+        },
+                {
+            ACTIONS =             {
+                dummy = id;
+            };
+            CLASS = RolloverImageButton;
+            LANGUAGE = ObjC;
+            OUTLETS =             {
+                "m_target" = id;
+            };
+            SUPERCLASS = NSButton;
+        },
+                {
+            CLASS = URLButton;
+            LANGUAGE = ObjC;
+            SUPERCLASS = NSButton;
+        }
+    );
+    IBVersion = 1;
+}

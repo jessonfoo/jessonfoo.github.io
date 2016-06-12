@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2oP-p2-HZy"; */
+"2oP-p2-HZy.title" = "Komórka tekstowa";
+
+/* Class = "NSMenuItem"; title = "Generate New Secret"; ObjectID = "Yq9-Vv-QIF"; */
+"Yq9-Vv-QIF.title" = "Generuj nowy kod";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "gvi-Wy-yJ4"; */
+"gvi-Wy-yJ4.title" = "Etykieta wielowierszowa";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "vQh-cC-bHD"; */
+"vQh-cC-bHD.title" = "Komórka wyglądu tabeli";
+
+/* Class = "NSTableColumn"; headerCell.title = "VAULTS"; ObjectID = "xeQ-Dq-jfQ"; */
+"xeQ-Dq-jfQ.headerCell.title" = "SEJFY";

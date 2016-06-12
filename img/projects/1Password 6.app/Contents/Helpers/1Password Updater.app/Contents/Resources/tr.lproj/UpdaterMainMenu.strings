@@ -1,0 +1,98 @@
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Pencere";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Simge durumuna küçült";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Pencere";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "1Password Updater"; ObjectID = "56"; */
+"56.title" = "1Password Güncelleyici";
+
+/* Class = "NSMenu"; title = "1Password Updater"; ObjectID = "57"; */
+"57.title" = "1Password Güncelleyici";
+
+/* Class = "NSMenuItem"; title = "About 1Password Updater"; ObjectID = "58"; */
+"58.title" = "1Password Güncelleyici Hakkında";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Kapat";
+
+/* Class = "NSMenuItem"; title = "Source"; ObjectID = "83"; */
+"83.title" = "Kaynak";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Servisler";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Servisler";
+
+/* Class = "NSMenuItem"; title = "Hide 1Password Updater"; ObjectID = "134"; */
+"134.title" = "1Password Güncelleyiciyi Gizle";
+
+/* Class = "NSMenuItem"; title = "Quit 1Password Updater"; ObjectID = "136"; */
+"136.title" = "1Password Güncelleyiciden Çık";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "Diğerlerini Gizle";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "Tümünü Göster";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "Kopyala";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "Tümünü Seç";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "Kes";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "Sil";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "Yapıştır";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "Düzenle";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "Geri Al";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "Yinele";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "Düzenle";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Yakınlaştır";
+
+/* Class = "NSWindow"; title = "1Password Updater"; ObjectID = "371"; */
+"371.title" = "1Password Güncelleyici";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Yardım";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Yardım";
+
+/* Class = "NSMenuItem"; title = "1Password Updater Help"; ObjectID = "492"; */
+"492.title" = "1Password Güncelleyici için Yardım";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "FkW-gM-r2S"; */
+"FkW-gM-r2S.title" = "Öğe 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "J5h-zs-oi6"; */
+"J5h-zs-oi6.title" = "Öğe 1";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "M15-y2-8vV"; */
+"M15-y2-8vV.title" = "Öğe 3";
+
+/* Class = "NSMenu"; title = "Source"; ObjectID = "aky-9I-Qgv"; */
+"aky-9I-Qgv.title" = "Kaynak";

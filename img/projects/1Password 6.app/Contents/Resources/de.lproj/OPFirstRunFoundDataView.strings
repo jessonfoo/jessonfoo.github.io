@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "We’ll have you up and running in no time."; ObjectID = "509-i1-SeH"; */
+"509-i1-SeH.title" = "Wir haben Sie in kürzester Zeit einsatzbereit.";
+
+/* Class = "NSTextFieldCell"; title = "path"; ObjectID = "60u-Bk-B3R"; */
+"60u-Bk-B3R.title" = "Pfad";
+
+/* Class = "NSButtonCell"; title = "Find it elsewhere"; ObjectID = "94h-Ia-IUi"; */
+"94h-Ia-IUi.title" = "Finden Sie es anderswo";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "AS8-LU-nk0"; */
+"AS8-LU-nk0.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "We found existing 1Password data on your Mac. Would you like to use it?"; ObjectID = "BqB-3W-Qhx"; */
+"BqB-3W-Qhx.title" = "Wir haben vorhandenen 1Password-Daten auf Ihrem Mac gefunden. Möchten Sie sie verwenden?";
+
+/* Class = "NSButtonCell"; title = "Sign in to your 1Password account"; ObjectID = "D6A-Lk-zD4"; */
+"D6A-Lk-zD4.title" = "In Ihrem 1Password-Konto einloggen";
+
+/* Class = "NSBox"; title = "White Box"; ObjectID = "LoO-B9-UQ9"; */
+"LoO-B9-UQ9.title" = "White Box";
+
+/* Class = "NSTextFieldCell"; title = "For Families and Teams"; ObjectID = "VO7-EL-krO"; */
+"VO7-EL-krO.title" = "Für Familien und Teams";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZZF-us-tAy"; */
+"ZZF-us-tAy.title" = "Textzelle";
+
+/* Class = "NSButtonCell"; title = "Use Existing Data"; ObjectID = "cD7-9y-K3M"; */
+"cD7-9y-K3M.title" = "Vorhandene Daten verwenden";
+
+/* Class = "NSTextFieldCell"; title = "Welcome back to"; ObjectID = "d4l-b3-KyY"; */
+"d4l-b3-KyY.title" = "Willkommen zurück zu";
+
+/* Class = "NSButtonCell"; title = "Create a New Vault"; ObjectID = "gVu-eR-dGU"; */
+"gVu-eR-dGU.title" = "Neuen Tresor erstellen";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Welcome back to 1Password. We'll have you up and running in no time."; ObjectID = "rwK-M4-vUe"; */
+"rwK-M4-vUe.ibExternalAccessibilityDescription" = "Welcome back to 1Password. We'll have you up and running in no time.";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "1Password"; ObjectID = "shw-7R-4Hg"; */
+"shw-7R-4Hg.ibExternalAccessibilityDescription" = "1Password";

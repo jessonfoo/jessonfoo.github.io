@@ -1,0 +1,41 @@
+/* Class = "NSTextFieldCell"; title = "We’ll have you up and running in no time."; ObjectID = "509-i1-SeH"; */
+"509-i1-SeH.title" = "我々は、すぐにあなたを稼働可能にします。";
+
+/* Class = "NSTextFieldCell"; title = "path"; ObjectID = "60u-Bk-B3R"; */
+"60u-Bk-B3R.title" = "パス";
+
+/* Class = "NSButtonCell"; title = "Find it elsewhere"; ObjectID = "94h-Ia-IUi"; */
+"94h-Ia-IUi.title" = "他を探す";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "AS8-LU-nk0"; */
+"AS8-LU-nk0.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "We found existing 1Password data on your Mac. Would you like to use it?"; ObjectID = "BqB-3W-Qhx"; */
+"BqB-3W-Qhx.title" = "お使いの Mac で 1Password の既存データを見つけました。それを使用しますか？";
+
+/* Class = "NSButtonCell"; title = "Sign in to your 1Password account"; ObjectID = "D6A-Lk-zD4"; */
+"D6A-Lk-zD4.title" = "Sign in to your 1Password account";
+
+/* Class = "NSBox"; title = "White Box"; ObjectID = "LoO-B9-UQ9"; */
+"LoO-B9-UQ9.title" = "White Box";
+
+/* Class = "NSTextFieldCell"; title = "For Families and Teams"; ObjectID = "VO7-EL-krO"; */
+"VO7-EL-krO.title" = "For Families and Teams";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ZZF-us-tAy"; */
+"ZZF-us-tAy.title" = "テキストセル";
+
+/* Class = "NSButtonCell"; title = "Use Existing Data"; ObjectID = "cD7-9y-K3M"; */
+"cD7-9y-K3M.title" = "既存のデータを使用";
+
+/* Class = "NSTextFieldCell"; title = "Welcome back to"; ObjectID = "d4l-b3-KyY"; */
+"d4l-b3-KyY.title" = "おかえりなさい";
+
+/* Class = "NSButtonCell"; title = "Create a New Vault"; ObjectID = "gVu-eR-dGU"; */
+"gVu-eR-dGU.title" = "新しい保管庫を作成";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Welcome back to 1Password. We'll have you up and running in no time."; ObjectID = "rwK-M4-vUe"; */
+"rwK-M4-vUe.ibExternalAccessibilityDescription" = "Welcome back to 1Password. We'll have you up and running in no time.";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "1Password"; ObjectID = "shw-7R-4Hg"; */
+"shw-7R-4Hg.ibExternalAccessibilityDescription" = "1Password";

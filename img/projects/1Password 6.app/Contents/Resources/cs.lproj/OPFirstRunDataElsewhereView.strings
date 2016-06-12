@@ -1,0 +1,86 @@
+/* Class = "NSTextFieldCell"; title = "In order to use iCloud you will need to sign in using your Apple ID via a web browser."; ObjectID = "7wb-pd-X5S"; */
+"7wb-pd-X5S.title" = "Chcete-li používat iCloud, budete se muset přihlásit ve webovém prohlížeči pomocí vašeho Apple ID.";
+
+/* Class = "NSTextFieldCell"; title = "iCloud is not enabled on this Mac.\n\nPlease enable iCloud and quit 1Password, then give it a few minutes to bring 1Password data to this Mac."; ObjectID = "8Nh-gT-lUd"; */
+"8Nh-gT-lUd.title" = "iCloud není na tomto Macu povolen.\n\nPovolte iCloud a ukončete 1Password. Poté vyčkejte několik minut, než se data 1Passwordu přenesou do tohoto počítače.";
+
+/* Class = "NSTextFieldCell"; title = "Where is your data?"; ObjectID = "9h6-3w-FfI"; */
+"9h6-3w-FfI.title" = "Kde jsou vaše data?";
+
+/* Class = "NSTabViewItem"; label = "Another"; ObjectID = "Byy-xk-bWX"; */
+"Byy-xk-bWX.label" = "Jiný";
+
+/* Class = "NSButtonCell"; title = "Sign in to iCloud"; ObjectID = "G1e-sb-Hbj"; */
+"G1e-sb-Hbj.title" = "Přihlášení do iCloudu";
+
+/* Class = "NSButtonCell"; title = "〱 Welcome to 1Password"; ObjectID = "G94-k5-ylE"; */
+"G94-k5-ylE.title" = "〱 Vítejte ve 1Passwordu";
+
+/* Class = "NSButtonCell"; title = "Restore from backup"; ObjectID = "Gih-xe-rRB"; */
+"Gih-xe-rRB.title" = "Obnovit ze zálohy";
+
+/* Class = "NSTextFieldCell"; title = "Click the Choose Backup button to select a 1Password backup from your hard drive. 1Password backup files end in “.1p4_zip”.\n\n1Password will close after your backup is restored. After this happens, start 1Password to begin using your data."; ObjectID = "HCY-he-yJC"; */
+"HCY-he-yJC.title" = "Klepněte na tlačítko Zvolte zálohu a vyberte zálohu 1Passwordu z vašeho pevného disku. Záložní soubory 1Passwordu končí příponou \".1p4_zip\".\n\n1Password se po dokončení obnovy dat ze zálohy sám ukončí. Při dalším spuštění již 1Password použije vaše obnovená data.";
+
+/* Class = "NSButtonCell"; title = "Dropbox"; ObjectID = "Hlt-Yp-ZhN"; */
+"Hlt-Yp-ZhN.title" = "Dropbox";
+
+/* Class = "NSButtonCell"; title = "iCloud"; ObjectID = "J23-KH-qdp"; */
+"J23-KH-qdp.title" = "iCloud";
+
+/* Class = "NSTabViewItem"; label = "iCloud"; ObjectID = "Ke1-BV-Lfa"; */
+"Ke1-BV-Lfa.label" = "iCloud";
+
+/* Class = "NSTabViewItem"; label = "Restore from Backup"; ObjectID = "MM2-vV-TA5"; */
+"MM2-vV-TA5.label" = "Obnovit ze zálohy";
+
+/* Class = "NSButtonCell"; title = "This Mac"; ObjectID = "QfK-ev-Dd0"; */
+"QfK-ev-Dd0.title" = "Tento Mac";
+
+/* Class = "NSButtonCell"; title = "Choose Backup…"; ObjectID = "VG5-f4-0ef"; */
+"VG5-f4-0ef.title" = "Zvolte zálohu…";
+
+/* Class = "NSTextFieldCell"; title = "If you use 1Password on another computer or mobile device there are several options to transfer your data to this Mac and keep it in sync. \n\nClick More Information for details."; ObjectID = "XJG-Db-hXe"; */
+"XJG-Db-hXe.title" = "Pokud používáte 1Password na jiném počítači nebo mobilním zařízení, máte několik možností, jak data na tento Mac přenést a synchronizovat je. \n\nPro více informací klepněte na tlačítko Více informací.";
+
+/* Class = "NSTextFieldCell"; title = "Multiline Label"; ObjectID = "bpj-SD-oHT"; */
+"bpj-SD-oHT.title" = "Víceřádkový popis";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "Clicking this will open a web browser and prompt you for your AppleID."; ObjectID = "ciV-cw-y13"; */
+"ciV-cw-y13.ibExternalAccessibilityHelp" = "Clicking this will open a web browser and prompt you for your AppleID.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "e4w-x7-PYG"; */
+"e4w-x7-PYG.title" = "Rámeček";
+
+/* Class = "NSButtonCell"; title = "Button"; ObjectID = "e8g-IV-3Dd"; */
+"e8g-IV-3Dd.title" = "Tlačítko";
+
+/* Class = "NSButtonCell"; title = "More Information…"; ObjectID = "lNr-Uh-xd1"; */
+"lNr-Uh-xd1.title" = "Více informací…";
+
+/* Class = "NSTabViewItem"; label = "Dropbox"; ObjectID = "pv6-6U-xmZ"; */
+"pv6-6U-xmZ.label" = "Dropbox";
+
+/* Class = "NSTabViewItem"; label = "iCloud"; ObjectID = "s47-Tv-bT9"; */
+"s47-Tv-bT9.label" = "iCloud";
+
+/* Class = "NSButtonCell"; title = "Enable iCloud and Quit 1Password"; ObjectID = "tTC-IA-pKe"; */
+"tTC-IA-pKe.title" = "Povolte iCloud a ukončete 1Password";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "uv1-dT-hBO"; */
+"uv1-dT-hBO.title" = "Popisek";
+
+/* Class = "NSButtonCell"; title = "Another device"; ObjectID = "xVt-Fh-hqQ"; */
+"xVt-Fh-hqQ.title" = "Jiné zařízení";
+
+/* Class = "NSTextFieldCell"; title = "Click the Choose File button below and select your 1Password data file. The file name will end in “.agilekeychain” or “.opvault”."; ObjectID = "xfL-vV-XPw"; */
+"xfL-vV-XPw.title" = "Dole klepněte na tlačítko Vybrat soubor a z Dropboxu vyberte svůj datový soubor 1Passwordu. Jméno souboru bude končit „.agilekeychain“ nebo „.opvault“.";
+
+/* Class = "NSButtonCell"; title = "Choose File…"; ObjectID = "yZ7-wv-U4C"; */
+"yZ7-wv-U4C.title" = "Vyberte soubor…";
+
+/* Class = "NSTabViewItem"; label = "Mac"; ObjectID = "zEJ-Mx-lqy"; */
+"zEJ-Mx-lqy.label" = "Mac";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "back"; ObjectID = "zhZ-zQ-0EY"; */
+"zhZ-zQ-0EY.ibExternalAccessibilityDescription" = "back";

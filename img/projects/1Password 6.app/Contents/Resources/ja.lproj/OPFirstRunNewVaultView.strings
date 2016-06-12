@@ -1,0 +1,44 @@
+/* Class = "NSTextFieldCell"; title = "Create your Master Password"; ObjectID = "10T-Bd-A3B"; */
+"10T-Bd-A3B.title" = "マスターパスワードを作成";
+
+/* Class = "NSTextFieldCell"; title = "Make Sure It’s Memorized"; ObjectID = "15c-c4-Ieg"; */
+"15c-c4-Ieg.title" = "必ず覚えていてください";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "29i-uJ-Rkt"; */
+"29i-uJ-Rkt.title" = "続行";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter a password hint"; ObjectID = "53h-HD-j3t"; */
+"53h-HD-j3t.placeholderString" = "パスワードのヒントを入力";
+
+/* Class = "NSButtonCell"; title = "〱 Welcome to 1Password"; ObjectID = "Gbj-uq-Hbn"; */
+"Gbj-uq-Hbn.title" = "1Password へようこそ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "back"; ObjectID = "Nqo-IU-df9"; */
+"Nqo-IU-df9.ibExternalAccessibilityDescription" = "back";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter a new master password"; ObjectID = "YWT-iv-b8Y"; */
+"YWT-iv-b8Y.placeholderString" = "新しいマスターパスワードを入力";
+
+/* Class = "NSTextFieldCell"; title = "This is the one password you need to remember."; ObjectID = "ZO6-zb-pu9"; */
+"ZO6-zb-pu9.title" = "これは覚えておく必要がある 1 つのパスワードです。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "aY6-6I-m9L"; */
+"aY6-6I-m9L.title" = "ボックス";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Please type it again"; ObjectID = "fsI-ds-kmO"; */
+"fsI-ds-kmO.placeholderString" = "もう一度入力してください";
+
+/* Class = "NSTextFieldCell"; title = "Use our generator and create a strong and easy to remember password."; ObjectID = "hFE-3k-v3j"; */
+"hFE-3k-v3j.title" = "自動生成を使うと、強力で覚えやすいパスワードを作れます。";
+
+/* Class = "NSTextFieldCell"; title = "Want help?"; ObjectID = "hQE-mK-yjI"; */
+"hQE-mK-yjI.title" = "ヘルプが必要ですか？";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "iSk-Ei-bvq"; */
+"iSk-Ei-bvq.title" = "ボックス";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "nSI-S3-nq2"; */
+"nSI-S3-nq2.title" = "生成";
+
+/* Class = "NSTextFieldCell"; title = "We also recommend writing it down and storing it in a safe place."; ObjectID = "xv7-OZ-hi5"; */
+"xv7-OZ-hi5.title" = "書き留めて、安全な場所に保存することもお勧めします。";

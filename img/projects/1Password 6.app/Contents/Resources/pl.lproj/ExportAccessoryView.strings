@@ -1,0 +1,32 @@
+/* Class = "NSTextFieldCell"; title = "File Format:"; ObjectID = "3"; */
+"3.title" = "Format pliku:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "9"; */
+"9.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "1Password Interchange Format (.1pif)"; ObjectID = "152"; */
+"152.title" = "Format wymiany danych 1Password (.1pif)";
+
+/* Class = "NSMenuItem"; title = "Comma Delimited Text (.csv)"; ObjectID = "153"; */
+"153.title" = "Plik z przecinkami rozdzielającymi (.csv)";
+
+/* Class = "NSMenuItem"; title = "Tab Delimited Text (.txt)"; ObjectID = "154"; */
+"154.title" = "Tekst z tabulatorami rozdzielającymi (.txt)";
+
+/* Class = "NSTextFieldCell"; title = "Fields to Export:"; ObjectID = "176"; */
+"176.title" = "Pola do wyeksportowania:";
+
+/* Class = "NSButtonCell"; title = "Include Column Labels"; ObjectID = "229"; */
+"229.title" = "Załącz nagłówki kolumn";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "280"; */
+"280.title" = "Radio";
+
+/* Class = "NSButtonCell"; title = "Common Fields"; ObjectID = "281"; */
+"281.title" = "Typowe pola";
+
+/* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "296"; */
+"296.title" = "Wszystkie pola";
+
+/* Class = "NSTextFieldCell"; title = "IMPORTANT: The file will not be encrypted and must be protected."; ObjectID = "4E7-KF-6AF"; */
+"4E7-KF-6AF.title" = "WAŻNE: Plik nie będzie zaszyfrowany i trzeba go chronić.";
