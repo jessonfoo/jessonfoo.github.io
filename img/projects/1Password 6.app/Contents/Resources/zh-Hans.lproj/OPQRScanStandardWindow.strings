@@ -1,5 +1,0 @@
-/* Class = "NSTextFieldCell"; title = "Place this window over the barcode to scan it or drag and drop the barcode here."; ObjectID = "2UD-DY-3lv"; */
-"2UD-DY-3lv.title" = "将此窗口置于条形码上来扫描，或者拖动条形码到这里。";
-
-/* Class = "NSWindow"; title = "QR Code Scanner"; ObjectID = "F0z-JX-Cv5"; */
-"F0z-JX-Cv5.title" = "QR 码扫描器";
